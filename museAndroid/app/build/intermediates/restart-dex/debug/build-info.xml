@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="16840566967255"
+    token="2093537233919621873" >
+
+    <task
+        name="javac"
+        duration="174" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="186" />
+    <task
+        name="verifier"
+        duration="42" />
+
+    <artifact
+        location="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="16840566967255" >
+        <artifact
+            location="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
