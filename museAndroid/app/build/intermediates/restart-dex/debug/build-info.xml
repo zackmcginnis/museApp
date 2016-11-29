@@ -4,7 +4,7 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="1764721637938138"
+    timestamp="1766568707393233"
     token="2093537233919621873" >
 
     <task
@@ -15,19 +15,24 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="140" />
+        duration="0" />
     <task
         name="verifier"
-        duration="59" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
     <build timestamp="1764721637938138" >
         <artifact
             location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="1766568707393233" >
+        <artifact
+            location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
