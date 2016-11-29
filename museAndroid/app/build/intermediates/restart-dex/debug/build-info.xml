@@ -4,7 +4,7 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="1766568707393233"
+    timestamp="1766875785012683"
     token="2093537233919621873" >
 
     <task
@@ -29,7 +29,7 @@
             location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="1766568707393233" >
+    <build timestamp="1766875785012683" >
         <artifact
             location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
