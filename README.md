@@ -1,8 +1,6 @@
-## Score predictor for NCAA football
+## Muse app
 
-- Gives predicted score total (both teams combined)
-- Utilizes stats relating to: points scored/game, points allowed/game, yards per play, yards per play allowed, offensive pace, offensive pace against, etc
-- Compares with Vegas projected game total
+-
 - Uses a modified starter template from https://github.com/loicknuchel/ionic-starter
 - Thanks to loicknuchel for providing a robust and clean template to work with
 

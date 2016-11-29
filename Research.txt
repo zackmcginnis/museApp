@@ -1,0 +1,70 @@
+From Wikipedia:
+
+https://en.wikipedia.org/wiki/Alpha_wave
+Alpha waves are neural oscillations in the frequency range of 7.5–12.5 Hz[1] arising from synchronous and coherent (in phase or constructive) electrical activity of thalamic pacemaker cells in humans. They are also called Berger's wave in memory of the founder of EEG.
+
+Alpha waves are one type of brain waves detected either by electroencephalography (EEG) or magnetoencephalography (MEG) and predominantly originate from the occipital lobe during wakeful relaxation with closed eyes. Alpha waves are reduced with open eyes, drowsiness and sleep. Historically, they were thought to represent the activity of the visual cortex in an idle state. More recent papers have argued that they inhibit areas of the cortex not in use, or alternatively that they play an active role in network coordination and communication.[2] Occipital alpha waves during periods of eyes closed are the strongest EEG brain signals.
+
+Alpha waves can be quantified using Quantitative electroencephalography (qEEG) using freely available toolboxes, such as, EEGLAB or the Neurophysiological Biomarker Toolbox.
+
+An alpha-like variant called mu (μ) can be found over the motor cortex (central scalp) that is reduced with movement, or the intention to move. Alpha waves seem not to appear until three years of age.[3]
+
+It has long been believed that alpha waves indicate a wakeful period during sleep.[citation needed] This has been attributed to studies where subjects report non-refreshing sleep and have EEG records reporting high levels of alpha intrusion into sleep. This occurrence is known as alpha wave intrusion.[8] However, it is possible that these explanations may be misleading, as they only focus on alpha waves being generated from the occipital lobe.
+
+Biofeedback training has also been receiving attention as a possible way of monitoring attention. It has been theorized that teaching machines could use biofeedback as a way of monitoring children's attention, with the appearance of alpha waves signaling a lapse of attention.[12]
+
+Following this lapse-of-attention line of thought, a recent study indicates that alpha waves may be used to predict mistakes. In it, MEGs measured increases of up to 25% in alpha brain wave activity before mistakes occurred. This study used common sense: alpha waves indicate idleness, and mistakes are often made when a person is doing something automatically, or "on auto-pilot", and not paying attention to the task they are performing. After the mistake was noticed by the subject, there was a decrease in alpha waves as the subject began paying more attention. This study hopes to promote the use of wireless EEG technology on employees in high-risk fields, such as air traffic controlling, to monitor alpha wave activity and gauge the attention level of the employee.[13]
+
+
+
+
+https://en.wikipedia.org/wiki/Electroencephalography#Normal_activity
+Alpha is the frequency range from 7 Hz to 14 Hz. Hans Berger named the first rhythmic EEG activity he saw as the "alpha wave". This was the "posterior basic rhythm" (also called the "posterior dominant rhythm" or the "posterior alpha rhythm"), seen in the posterior regions of the head on both sides, higher in amplitude on the dominant side. It emerges with closing of the eyes and with relaxation, and attenuates with eye opening or mental exertion. The posterior basic rhythm is actually slower than 8 Hz in young children (therefore technically in the theta range). In addition to the posterior basic rhythm, there are other normal alpha rhythms such as the mu rhythm (alpha activity in the contralateral sensory and motor cortical areas) that emerges when the hands and arms are idle; and the "third rhythm" (alpha activity in the temporal or frontal lobes).[54][55] Alpha can be abnormal; for example, an EEG that has diffuse alpha occurring in coma and is not responsive to external stimuli is referred to as "alpha coma".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

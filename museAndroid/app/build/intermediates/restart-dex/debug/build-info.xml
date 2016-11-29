@@ -4,29 +4,29 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="16840566967255"
+    timestamp="1764721637938138"
     token="2093537233919621873" >
 
     <task
         name="javac"
-        duration="174" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="186" />
+        duration="140" />
     <task
         name="verifier"
-        duration="42" />
+        duration="59" />
 
     <artifact
-        location="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="16840566967255" >
+    <build timestamp="1764721637938138" >
         <artifact
-            location="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

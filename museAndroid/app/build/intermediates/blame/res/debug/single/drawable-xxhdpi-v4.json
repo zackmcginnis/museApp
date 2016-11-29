@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Zack\\Documents\\GitHub\\museApp\\museAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Zack\\Documents\\GitHub\\museApp\\museAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Zack\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Zack\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }

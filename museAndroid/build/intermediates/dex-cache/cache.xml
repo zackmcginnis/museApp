@@ -9,6 +9,13 @@
         <dex dex="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15b5512bee77ce3dc280efcbc28c89689ca6a39e\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_0b58fbae631aa0d0d409c278fada3f3c45915c64\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -21,6 +28,34 @@
         revision="23.0.3"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
         <dex dex="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_fcf2c1878cedff66195b81e4c8252df7233e456a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32481f61520cb8773e844aa13569870f62c65fcc">
+        <dex dex="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4291f0e5afbc4b84628de7876794ab153a82dd49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_94064ec21157c3b747effdb03f3aea5c9b95744b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e0e7a9483598120cec51b3d74f2dc23ee5981588">
+        <dex dex="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_8dab05069ce598fee2f4658091e594d26089a0c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e3b0bfbd565219d7a6f58a4924999c5ecb0a552">
+        <dex dex="C:\Users\Zack\Documents\GitHub\museApp\museAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_626d56c8a506bf34d5184a08e6d572d1f06c220b\classes.dex" />
     </item>
     <item
         jar="C:\Users\Zack\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"

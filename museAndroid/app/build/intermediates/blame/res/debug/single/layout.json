@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Zack\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Zack\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\Documents\\GitHub\\museApp\\museAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zack\\Documents\\GitHub\\museApp\\museAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]

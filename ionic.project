@@ -1,5 +1,5 @@
 {
-  "name": "score_predictor",
+  "name": "museApp",
   "app_id": "",
   "gulpStartupTasks": [
     "sass",

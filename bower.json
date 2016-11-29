@@ -1,5 +1,5 @@
 {
-  "name": "score_predictor",
+  "name": "museApp",
   "private": "true",
   "devDependencies": {
     "ionic": "driftyco/ionic-bower#1.2.0",
