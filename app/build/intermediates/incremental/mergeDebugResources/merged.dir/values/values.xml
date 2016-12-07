@@ -13,6 +13,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="init_val">0.0</string>
     <string name="msg_count">Msg number, size: </string>
+    <string name="muse_beta">Beta relative:</string>
     <string name="muse_elem">Alpha relative:</string>
     <string name="pause">Pause/Resume</string>
     <string name="permission_dialog_description">Muse needs a few permissions to work properly. On the next screens, tap "Allow" to proceed. If you deny, Muse will not work properly until you go into your Android settings and allow.</string>
@@ -23,13 +24,9 @@
     <string name="undefined">unknown</string>
     <string name="version">Version:</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
 </resources>

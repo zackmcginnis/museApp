@@ -23,3 +23,10 @@ To run the app on your android device :
 - after build success, from the 'run' tab, select 'run app'
 - application will be deployed to your mobile device
 
+## To Do:
+
+- The first iteration of this project will simply have a menu screen, settings screen, and action screen
+- The menu screen will provide buttons to the settings and action screens
+- Settings will only include "timer duration" at the moment
+- Action screen will display a real-time graph of alpha and beta waves
+- The action screen will function for the duration of the timer

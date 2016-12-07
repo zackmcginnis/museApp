@@ -131,6 +131,8 @@ public class MainActivity extends Activity implements OnClickListener {
     private boolean eegStale;
     private final double[] alphaBuffer = new double[6];
     private boolean alphaStale;
+    private final double[] betaBuffer = new double[6]; //added beta buffer and stale bool
+    private boolean betaStale;
     private final double[] accelBuffer = new double[3];
     private boolean accelStale;
 
@@ -255,6 +257,7 @@ public class MainActivity extends Activity implements OnClickListener {
                 muse.registerConnectionListener(connectionListener);
                 muse.registerDataListener(dataListener, MuseDataPacketType.EEG);
                 muse.registerDataListener(dataListener, MuseDataPacketType.ALPHA_RELATIVE);
+                muse.registerDataListener(dataListener, MuseDataPacketType.BETA_RELATIVE); //added beta relative
                 muse.registerDataListener(dataListener, MuseDataPacketType.ACCELEROMETER);
                 muse.registerDataListener(dataListener, MuseDataPacketType.BATTERY);
                 muse.registerDataListener(dataListener, MuseDataPacketType.DRL_REF);
@@ -420,6 +423,11 @@ public class MainActivity extends Activity implements OnClickListener {
                 getEegChannelValues(alphaBuffer,p);
                 alphaStale = true;
                 break;
+            case BETA_RELATIVE:
+                assert(betaBuffer.length >= n);
+                getEegChannelValues(betaBuffer,p);
+                betaStale = true;
+                break;
             case BATTERY:
             case DRL_REF:
             case QUANTIZATION:
@@ -507,6 +515,9 @@ public class MainActivity extends Activity implements OnClickListener {
             if (alphaStale) {
                 updateAlpha();
             }
+          if (betaStale) {
+            updateBeta();
+          }
             handler.postDelayed(tickUi, 1000 / 60);
         }
     };
@@ -546,6 +557,16 @@ public class MainActivity extends Activity implements OnClickListener {
         elem4.setText(String.format("%6.2f", alphaBuffer[3]));
     }
 
+    private void updateBeta() {
+        TextView beta1 = (TextView)findViewById(R.id.beta1);
+        beta1.setText(String.format("%6.2f", betaBuffer[0]));
+        TextView beta2 = (TextView)findViewById(R.id.beta2);
+        beta2.setText(String.format("%6.2f", betaBuffer[1]));
+        TextView beta3 = (TextView)findViewById(R.id.beta3);
+        beta3.setText(String.format("%6.2f", betaBuffer[2]));
+        TextView beta4 = (TextView)findViewById(R.id.beta4);
+        beta4.setText(String.format("%6.2f", betaBuffer[3]));
+  }
 
     //--------------------------------------
     // File I/O
