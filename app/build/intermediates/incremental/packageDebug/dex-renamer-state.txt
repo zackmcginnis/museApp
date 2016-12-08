@@ -1,4 +1,4 @@
-#Tue Dec 06 22:20:17 PST 2016
+#Thu Dec 08 11:03:05 PST 2016
 base.0=C\:\\Users\\Zack\\Documents\\GitHub\\museApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b3735b144530b623eb4b06fbd93cd65399afdc20
 renamed.1=classes2.dex
 renamed.0=classes.dex

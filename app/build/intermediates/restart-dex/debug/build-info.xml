@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="50529332482634"
+    timestamp="182693536742504"
     token="2836061644679993327"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
