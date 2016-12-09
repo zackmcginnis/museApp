@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml
@@ -43,7 +43,7 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\Documents\GitH
 		INJECTED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:17:5-38:19
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:17:5-69:19
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\Documents\GitHub\museApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:20:9-41
@@ -72,10 +72,50 @@ ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.choosemuse.example.libmuse.MainActivity
-ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:32:7-37:18
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:32:7-37:16
 	android:screenOrientation
-		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:34:9-45
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:34:7-43
 	android:label
-		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:35:9-41
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:35:7-39
 	android:name
-		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:33:9-67
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:33:7-65
+activity#com.choosemuse.example.libmuse.Timer
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:38:7-43:18
+	android:screenOrientation
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:40:9-45
+	android:label
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:41:9-41
+	android:name
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:39:9-60
+activity#com.choosemuse.example.libmuse.About
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:44:7-49:18
+	android:screenOrientation
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:46:9-45
+	android:label
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:47:9-41
+	android:name
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:45:9-60
+activity#com.choosemuse.example.libmuse.Settings
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:50:7-55:18
+	android:screenOrientation
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:52:9-45
+	android:label
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:53:9-41
+	android:name
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:51:9-63
+activity#com.choosemuse.example.libmuse.ViewData
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:56:7-61:16
+	android:screenOrientation
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:58:7-43
+	android:label
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:59:7-39
+	android:name
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:57:7-61
+activity#com.choosemuse.example.libmuse.Finish
+ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:62:7-67:18
+	android:screenOrientation
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:64:9-45
+	android:label
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:65:9-41
+	android:name
+		ADDED from C:\Users\Zack\Documents\GitHub\museApp\app\src\main\AndroidManifest.xml:63:9-61

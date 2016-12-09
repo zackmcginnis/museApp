@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="182693536742504"
+    timestamp="200959302618349"
     token="2836061644679993327"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -17,10 +17,10 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="361" />
     <task
         name="verifier"
-        duration="0" />
+        duration="50" />
 
     <artifact
         location="C:\Users\Zack\Documents\GitHub\museApp\app\build\outputs\apk\app-debug.apk"

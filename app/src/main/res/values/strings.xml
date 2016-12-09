@@ -20,7 +20,25 @@
     <string name="muse_elem">Alpha relative:</string>
   <string name="muse_beta">Beta relative:</string>
   <string name="start">Start</string>
+  <string name="timer">Timer</string>
   <string name="settings">Settings</string>
+  <string name="about">About</string>
+  <string name="viewdata">View Muse Connection Data</string>
+  <string name="about_the_app">This android application for the Muse Headband was created with the intention of improving concentration.
+
+    \n\nHowever, unlike the original Muse application (developed by Interaxon),
+    this application will be utlizing brain wave activity in a slightly different way.
+    \n\nStudies have shown that
+    tasks requiring intense, directed focus (reading, studying, etc...) require different brain wave distribution when compared with meditation or sleep, for example.
+
+    \n\nMore specifically, these focus-driven tasks require a combination of low alpha-wave activity, and high beta-wave activity.
+
+    \n\nAfter a quick test to establish baseline brainwave levels, the user will be alerted when alpha or beta wave activity rises too high or falls too low during their task.
+
+    \n\nThis 3rd party application was developed by Zachary Michael McGinnis, 2016
+    \n\nThe Muse headband and Muse meditation application are property of InteraXon Labs.
+
+  </string>
 
     <string name="permission_dialog_title">Muse Needs Your Permission</string>
     <string name="permission_dialog_description">Muse needs a few permissions to work properly. On the next screens, tap "Allow" to proceed. If you deny, Muse will not work properly until you go into your Android settings and allow.</string>

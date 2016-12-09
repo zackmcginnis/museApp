@@ -92,11 +92,19 @@ protected void onCreate(Bundle savedInstanceState) {
   public void onClick(View view) {
     if (view.getId() == R.id.start) {
       // The user has pressed the "Refresh" button.
-      Intent myIntent = new Intent(view.getContext(), MainActivity.class);
+      Intent myIntent = new Intent(view.getContext(), Timer.class);
       startActivityForResult(myIntent, 0);
 
     } else if (view.getId() == R.id.settings) {
-      Intent myIntent = new Intent(view.getContext(), MainActivity.class);
+      Intent myIntent = new Intent(view.getContext(), Settings.class);
+      startActivityForResult(myIntent, 0);
+    }
+    else if (view.getId() == R.id.about) {
+      Intent myIntent = new Intent(view.getContext(), About.class);
+      startActivityForResult(myIntent, 0);
+    }
+    else if (view.getId() == R.id.viewdata) {
+      Intent myIntent = new Intent(view.getContext(), ViewData.class);
       startActivityForResult(myIntent, 0);
     }
   }
@@ -117,6 +125,10 @@ protected void onCreate(Bundle savedInstanceState) {
     start.setOnClickListener(this);
     Button settings = (Button) findViewById(R.id.settings);
     settings.setOnClickListener(this);
+    Button about = (Button) findViewById(R.id.about);
+    about.setOnClickListener(this);
+    Button viewdata = (Button) findViewById(R.id.viewdata);
+    viewdata.setOnClickListener(this);
   }
 
 
